@@ -34,7 +34,7 @@
     "@medplum/core": "3.1.10",
     "@medplum/definitions": "3.1.10",
     "@medplum/fhir-router": "3.1.10",
-    "@opentelemetry/auto-instrumentations-node": "0.47.1",
+    "@opentelemetry/auto-instrumentations-node": "0.75.0",
     "@opentelemetry/exporter-metrics-otlp-proto": "0.52.1",
     "@opentelemetry/exporter-trace-otlp-proto": "0.52.1",
     "@opentelemetry/sdk-metrics": "1.25.1",
