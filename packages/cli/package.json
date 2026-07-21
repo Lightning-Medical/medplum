@@ -57,7 +57,7 @@
     "fast-glob": "3.3.2",
     "iconv-lite": "0.6.3",
     "node-fetch": "2.7.0",
-    "tar": "7.5.16"
+    "tar": "7.5.19"
   },
   "devDependencies": {
     "@medplum/fhirtypes": "3.1.10",
